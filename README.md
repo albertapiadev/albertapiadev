@@ -18,7 +18,7 @@ Mi enfoque se caracteriza por la formación continua, la adaptabilidad y la comu
 <br/>
   
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=albertapiadev&label=Profile%20views&color=0e75b6&style=flat" alt="albertapiadev" />
+<img src="https://komarev.com/ghpvc/?username=albertapiadev&label=Visita&color=052b53&style=flat" alt="albertapiadev" />
 </p>
 
 <br/>
@@ -67,8 +67,8 @@ Mi enfoque se caracteriza por la formación continua, la adaptabilidad y la comu
 
 <p align="center">
 <a href="https://github.com/albertapiadev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=albertapiadev&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albertapiadev&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=albertapiadev&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albertapiadev&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </a>
 </p>
 
