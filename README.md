@@ -28,7 +28,7 @@ Mi enfoque se caracteriza por la formación continua, la adaptabilidad y la comu
 - 🦾 Actualmente estoy trabajando en mis proyectos paralelos
 - 🛠 Actualmente estoy aprendiendo arquitectura de software
 - ♻️ Estoy buscando colaborar en tus proyectos de código abierto
-- 🔔 Pregúntame sobre cualquier cosa [aquí](https://github.com/albertapiadev/albertapiadev/issues)**
+- 🔔 Pregúntame sobre cualquier cosa <a href="https://github.com/albertapiadev/albertapiadev/issues">aquí</a>
 - 🌟 Dato curioso: ¡Nunca pensé convertirme en un programador Java!
 <br>
 
