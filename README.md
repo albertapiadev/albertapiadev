@@ -6,12 +6,9 @@
  </br>
 <p align="center">
 <samp>
-Hola, soy <a href="https://github.com/albertapiadev">Albert</a>, un programador joven con un entusiasmo insaciable por la programación y la tecnología. Como desarrollador Java Backend, me apasiona explorar nuevas tecnologías y enfrentar desafíos.
+¡Saludos, geeks del teclado! Soy <a href="https://github.com/albertapiadev">Albert</a>, un dev Java Backend con la habilidad de convertir café en código y errores en lecciones aprendidas.
 </samp>
 </br></br>
-<samp>
-Mi enfoque se caracteriza por la formación continua, la adaptabilidad y la comunicación efectiva. Siempre estoy buscando oportunidades para aprender y crecer en mi carrera. Mi dedicación y responsabilidad son los pilares de mi contribución en cualquier proyecto. Estoy emocionado por formar parte de proyectos desafiantes y contribuir con mi pasión por la programación.
-</samp>
 </p>
 <samp>
 
@@ -25,11 +22,11 @@ Mi enfoque se caracteriza por la formación continua, la adaptabilidad y la comu
 
 ## 👨🏻‍💻 &nbsp;Sobre mí
 
-- 🦾 Actualmente estoy trabajando en mis proyectos paralelos
-- 🛠 Actualmente estoy aprendiendo arquitectura de software
-- ♻️ Estoy buscando colaborar en tus proyectos de código abierto
-- 🔔 Pregúntame sobre Java, Spring Boot... o cualquier cosa <a href="https://github.com/albertapiadev/albertapiadev/issues">aquí</a>
-- 🌟 Dato curioso: Las capas de La Guardia Nocturna de Juego de Tronos están hechas con alfombras de Ikea
+- 💡 Apasionado por explorar y aprender nuevas tecnologías.
+- 🏗️ Interesado en descubrir los entresijos de la arquitectura de software.
+- 🌱 En constante búsqueda de emocionantes proyectos de código abierto para contribuir.
+- 💬 ¿Curioso sobre los secretos del desarrollo backend? ¡Dispara <a href="https://github.com/albertapiadev/albertapiadev/issues">aquí</a> tus dudas en mi buzón de consultas!  
+- 🌟 Dato curioso: el primer 'bug' informático fue literalmente un bicho 🐛
 <br>
 
 ## ⚙️ &nbsp;Stack tecnológico
