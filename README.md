@@ -72,7 +72,6 @@
 ## 🤝🏻 &nbsp;Conectate conmigo
 
 <p align="center">
-        <a href="https://www.linkedin.com/in/albert-yassmani-tapia-pinto/"><img src="https://img.shields.io/badge/Albert%20Tapia-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
         <a href="mailto:albertapiadev@gmail.com"><img src="https://img.shields.io/badge/albertapiadev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
         <a href="https://twitter.com/albertapiadev"><img src="https://img.shields.io/badge/albertapiadev-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
