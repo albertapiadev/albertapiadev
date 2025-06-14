@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <samp>Java Backend Developer | APIs | Kafka | Cloud | Clean Code Advocate</samp>
+  <samp>Backend dev en modo constante: construir, automatizar y refactorizar sin piedad.</samp>
 </p>
 
 ---
@@ -19,49 +19,29 @@
 ```bash
 name: Albert Tapia
 alias: @albertapiadev
-role: Backend Developer
-focus: Arquitectura, automatización, eficiencia
-stack: Java | Spring | Kafka | Docker | SQL | Cloud
+role: Java Backend Developer
+focus: Arquitecturas limpias | APIs bien pensadas | Procesos eficientes
+mood: try/catch con estilo
 ````
 
 ---
 
-## 🔧 /toolkit
+## ⚙️ /toolkit
 
-```yaml
-languages:
-  - Java
-  - SQL
-  - Bash
-  - GraphQL
+> Herramientas favoritas clasificadas por tipo — ni muchas, ni pocas, solo las que valen la pena.
 
-frameworks:
-  - Spring Boot
-  - JPA / Hibernate
-  - Kafka
-  - JUnit 5
+```
+[🧠 Lenguajes]        Java · SQL · Bash · GraphQL
 
-databases:
-  - PostgreSQL
-  - MongoDB
-  - MySQL
-  - Oracle
-  - SQL Server
+[🏗️ Frameworks]       Spring Boot · JPA · Kafka · JUnit 5
 
-devops:
-  - Docker
-  - Kubernetes
-  - Swagger / OpenAPI
-  - SonarQube
+[💾 Bases de Datos]   PostgreSQL · MongoDB · MySQL · Oracle · SQL Server
 
-cloud:
-  - AWS
-  - Azure
-  - Heroku
+[📦 DevOps & QA]      Docker · Kubernetes · SonarQube · Swagger
 
-tools:
-  - Postman
-  - GitHub / GitLab / Bitbucket
+[☁️ Cloud]            AWS · Azure · Heroku
+
+[🛠️ Utilidades]       Postman · GitHub · GitLab · Bitbucket
 ```
 
 ---
@@ -81,6 +61,17 @@ tools:
 📧 albertapiadev@gmail.com
 🐦 twitter.com/albertapiadev
 ```
+
+---
+
+## 🌀 /debug-log
+
+> Cosas que definen mi estilo como dev:
+
+* Prefiero calidad que velocidad, pero si se puede ambas… mejor.
+* Mis tests fallan antes de que lo hagan en producción.
+* No hay error que no se pueda rastrear con buen logging.
+* El café no es opcional.
 
 ---
 
