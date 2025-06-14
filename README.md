@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <samp>☕ Java Backend Dev. 📦 Arquitecto accidental. 🐞 Cazador de bugs. 🧠 Apasionado por aprender y crear.</samp>
+  <samp>Java Backend Developer | APIs | Kafka | Cloud | Clean Code Advocate</samp>
 </p>
 
 ---
@@ -19,50 +19,27 @@
 ```bash
 name: Albert Tapia
 alias: @albertapiadev
-stack: Java | Spring Boot | Kafka | Docker | SQL | Cloud
-fun_fact: "Compilo mejor bajo presión (y cafeína)"
+role: Backend Developer
+focus: Arquitectura, automatización, eficiencia
+stack: Java | Spring | Kafka | Docker | SQL | Cloud
 ````
-
----
-
-## 🚀 /intro
-
-> *"No soy el típico backend dev… uso más Postman que WhatsApp."*
-
-👨‍💻 Soy un constructor de APIs, un obsesionado por la limpieza del código y un fiel creyente del `ctrl + z` como estilo de vida.
-
-Mi filosofía es simple:
-
-```bash
-for (bug in life) {
-  fix(bug);
-}
-```
 
 ---
 
 ## 🔧 /toolkit
 
-> Tecnologías que me hacen feliz (y productivo):
-
 ```yaml
 languages:
   - Java
   - SQL
-  - GraphQL
   - Bash
+  - GraphQL
 
 frameworks:
   - Spring Boot
-  - JPA/Hibernate
-  - JUnit5
+  - JPA / Hibernate
   - Kafka
-
-devops:
-  - Docker
-  - Kubernetes
-  - Swagger
-  - SonarQube
+  - JUnit 5
 
 databases:
   - PostgreSQL
@@ -70,6 +47,12 @@ databases:
   - MySQL
   - Oracle
   - SQL Server
+
+devops:
+  - Docker
+  - Kubernetes
+  - Swagger / OpenAPI
+  - SonarQube
 
 cloud:
   - AWS
@@ -86,8 +69,8 @@ tools:
 ## 📊 /stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=albertapiadev&show_icons=true&theme=radical&count_private=true" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertapiadev&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=albertapiadev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertapiadev&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -96,19 +79,8 @@ tools:
 
 ```bash
 📧 albertapiadev@gmail.com
-🐦 https://twitter.com/albertapiadev
+🐦 twitter.com/albertapiadev
 ```
-
----
-
-## 🌀 /random
-
-> Cosas que quizás no sabías:
-
-* 🔐 El primer bug de la historia fue un insecto real (y yo todavía sigo cazándolos).
-* ⚠️ Mis commits tienen más chistes que convenciones.
-* ⏳ Tiendo a optimizar procesos… incluso cuando no me lo piden.
-* 🎧 Codifico mejor con música épica de fondo o lo-fi de hackers.
 
 ---
 
@@ -117,4 +89,3 @@ tools:
 </p>
 
 <!-- 🟥 FIN DE TERMINAL DIGITAL 🟥 -->
-
