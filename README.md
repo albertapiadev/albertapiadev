@@ -82,7 +82,7 @@
 
 ```bash
 📧  albertapiadev@gmail.com
-❌  x.com/albertapiadev
+🌐  x.com/albertapiadev
 ```
 
 ---
@@ -113,7 +113,7 @@ root@devbox:/home/albert# deploy --today friday
 ---
 
 <p align="center">
-  <samp>© 2023 - albertapiadev | Última actualización: 12/09/2023</samp>
+  <samp>© 2025 - albertapiadev | Última actualización: 14/06/2025</samp>
 </p>
 
 <!-- 🟥 FIN DE TERMINAL STYLED README 🟥 -->
