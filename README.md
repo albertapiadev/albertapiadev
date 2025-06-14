@@ -1,15 +1,15 @@
-<!-- 🟢 INICIO DE TERMINAL STYLED README 🟢 -->
+<!-- 🟩 INICIO DE TERMINAL STYLED README 🟩 -->
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/7069/7069922.png" width="80" alt="Albert Tapia logo" />
 </p>
 
 <h1 align="center">
-  <samp>albert@tapia-dev:~ (main) $ whoami</samp>
+  <samp>albert@devbox:~ (main) $ whoami</samp>
 </h1>
 
 <p align="center">
-  <samp>Java Backend Dev | Spring Addict | Kafka Whisperer | SQL Romantic | Cloud Explorer</samp>
+  <samp>Java Backend Dev | APIs, procesos distribuidos, y cero tolerancia a código sucio</samp>
 </p>
 
 ---
@@ -17,10 +17,18 @@
 ## 🧬 /bio
 
 ```bash
-👤  Nombre     : Albert Tapia
-🎯  Rol        : Backend Developer
-💻  Especialidad: Arquitectura de APIs, procesos distribuidos, eficiencia técnica
-☕  Estilo     : debug-driven development + espresso
+albert@devbox:~$ whoami
+albertapiadev
+
+albert@devbox:~$ echo $ROLE
+Java Backend Developer
+
+albert@devbox:~$ echo $WORKSTYLE
+terminal first, mouse optional
+
+albert@devbox:~$ echo $CODEPHILOSOPHY
+simple > mágico
+logs > reuniones
 ```
 
 ---
@@ -81,7 +89,7 @@
 
 ```bash
 📧  albertapiadev@gmail.com
-🐦  twitter.com/albertapiadev
+❌  x.com/albertapiadev
 ```
 
 ---
@@ -89,17 +97,17 @@
 ## 🌀 /debug-log
 
 ```
-🖥️  albert@tapia-dev:~ (main) $ run daily-dev --mode productivity
+🖥️  albert@devbox:~ (main) $ run daily-dev --mode focused
 
-✔ Café cargado
-✔ Código formateado
-✘ Pruebas unitarias... ignoradas por salud mental
-✔ StackOverflow consultado
-✔ Log level ajustado a DEBUG
-✔ Commit con mensaje críptico: "ajustes varios" realizado
+✔  café cargado
+✔  código formateado
+✘  pruebas ignoradas por sanidad mental
+✔  stackoverflow consultado
+✔  log level: DEBUG activado
+✔  commit con mensaje confuso aplicado
 
-🧠  Sugerencia: si no compila, culpa al IDE
-💬  Nota mental: nunca hagas deploy un viernes (otra vez)
+🧠  tip: si no compila, reinicia... tú, no el IDE
+💡  regla sagrada: jamás deploy un viernes (de nuevo)
 ```
 
 ---
@@ -108,4 +116,4 @@
   <samp>© 2023 - albertapiadev | Última actualización: 12/09/2023</samp>
 </p>
 
-<!-- 🔴 FIN DE TERMINAL STYLED README 🔴 -->
+<!-- 🟥 FIN DE TERMINAL STYLED README 🟥 -->
