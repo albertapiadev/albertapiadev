@@ -51,12 +51,12 @@
 <!-- Bases de Datos -->
 <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql" />
 <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb" />
-<img src="https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle" />
+<img src="https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle&logoColor=F80000" />
 <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql" />
 
 <!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoft-azure" />
+<img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0078D4" />
 <img src="https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku" />
 
 <!-- Herramientas -->
