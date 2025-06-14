@@ -1,15 +1,15 @@
-<!-- 🟩 INICIO DE TERMINAL DIGITAL 🟩 -->
+<!-- 🟢 INICIO DE TERMINAL STYLED README 🟢 -->
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/7069/7069922.png" width="80" alt="Albert Tapia logo" />
 </p>
 
 <h1 align="center">
-  <samp>➤ albertapiadev@github:~$ whoami</samp>
+  <samp>albert@tapia-dev:~ (main) $ whoami</samp>
 </h1>
 
 <p align="center">
-  <samp>Backend dev en modo constante: construir, automatizar y refactorizar sin piedad.</samp>
+  <samp>Java Backend Dev | Spring Addict | Kafka Whisperer | SQL Romantic | Cloud Explorer</samp>
 </p>
 
 ---
@@ -17,11 +17,10 @@
 ## 🧬 /bio
 
 ```bash
-name: Albert Tapia
-alias: @albertapiadev
-role: Java Backend Developer
-stack: APIs · Kafka · Cloud · Clean Code
-habit: debug > dormir
+👤  Nombre     : Albert Tapia
+🎯  Rol        : Backend Developer
+💻  Especialidad: Arquitectura de APIs, procesos distribuidos, eficiencia técnica
+☕  Estilo     : debug-driven development + espresso
 ```
 
 ---
@@ -38,8 +37,8 @@ habit: debug > dormir
 
 <!-- Frameworks -->
 <img src="https://img.shields.io/badge/Spring_Boot-05122A?style=flat&logo=spring-boot" />
-<img src="https://img.shields.io/badge/JPA_Hibernate-05122A?style=flat&logo=hibernate" />
-<img src="https://img.shields.io/badge/Apache_Kafka-05122A?style=flat&logo=apache-kafka" />
+<img src="https://img.shields.io/badge/Hibernate-05122A?style=flat&logo=hibernate" />
+<img src="https://img.shields.io/badge/Kafka-05122A?style=flat&logo=apache-kafka" />
 <img src="https://img.shields.io/badge/JUnit5-05122A?style=flat&logo=testing-library" />
 
 <!-- DevOps -->
@@ -48,7 +47,7 @@ habit: debug > dormir
 <img src="https://img.shields.io/badge/Swagger-05122A?style=flat&logo=swagger" />
 <img src="https://img.shields.io/badge/SonarQube-05122A?style=flat&logo=sonarqube" />
 
-<!-- Databases -->
+<!-- Bases de Datos -->
 <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql" />
 <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb" />
 <img src="https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle" />
@@ -59,7 +58,7 @@ habit: debug > dormir
 <img src="https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoft-azure" />
 <img src="https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku" />
 
-<!-- Tools -->
+<!-- Herramientas -->
 <img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman" />
 <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github" />
 <img src="https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab" />
@@ -81,49 +80,26 @@ habit: debug > dormir
 ## 📫 /contact
 
 ```bash
-📧 albertapiadev@gmail.com
-🐦 twitter.com/albertapiadev
+📧  albertapiadev@gmail.com
+🐦  twitter.com/albertapiadev
 ```
 
 ---
 
 ## 🌀 /debug-log
 
-```js
-// Cuándo funciona el código a la primera
-if (code.worksOnFirstTry) {
-  console.log("Me olvidé de guardar algo seguro...");
-}
 ```
+🖥️  albert@tapia-dev:~ (main) $ run daily-dev --mode productivity
 
-```bash
-$ git commit -m "Versión final"
-$ git push
-# 2 minutos después...
-$ git commit -m "versión final FINAL"
-```
+✔ Café cargado
+✔ Código formateado
+✘ Pruebas unitarias... ignoradas por salud mental
+✔ StackOverflow consultado
+✔ Log level ajustado a DEBUG
+✔ Commit con mensaje críptico: "ajustes varios" realizado
 
-```java
-public void focus() {
-  if (coffee.isEmpty()) {
-    throw new DeveloperException("Sistema requiere recarga de cafeína ☕");
-  }
-}
-```
-
-```sql
--- Diagnóstico emocional diario
-SELECT humor
-FROM dev
-WHERE deadline = 'mañana'
-AND tests = 'rojos';
-```
-
-```python
-# Verificar si ya es viernes
-from datetime import datetime
-if datetime.today().weekday() == 4:
-    print("Deploy con fe ✨")
+🧠  Sugerencia: si no compila, culpa al IDE
+💬  Nota mental: nunca hagas deploy un viernes (otra vez)
 ```
 
 ---
@@ -132,4 +108,4 @@ if datetime.today().weekday() == 4:
   <samp>© 2023 - albertapiadev | Última actualización: 12/09/2023</samp>
 </p>
 
-<!-- 🟥 FIN DE TERMINAL DIGITAL 🟥 -->
+<!-- 🔴 FIN DE TERMINAL STYLED README 🔴 -->
