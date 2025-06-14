@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <samp>albert@devbox:~ (main) $</samp>
+  <samp>console.log("Hi, I'm Albert 👋")</samp>
 </h1>
 
 <p align="center">
