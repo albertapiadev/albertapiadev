@@ -93,21 +93,15 @@
 albert@devbox:~$ sudo su
 [sudo] password for albert: ********
 
-root@devbox:/home/albert# run daily-dev --mode focused
-
-✓ café cargado
+root@devbox:/home/albert# run --env dev --cafe strong
 ✓ entorno listo
-✓ código formateado
-✗ pruebas... ignoradas por salud mental
-✓ stackoverflow abierto (en pestaña oculta)
-✓ log level = DEBUG
-✓ commit: "ajustes menores finales v3"
+✓ café cargado
+✓ formato aplicado
+✗ pruebas ignoradas (por salud mental)
+✓ log level: DEBUG
 
-root@devbox:/home/albert# tip
-si no compila, probablemente fue culpa tuya
-
-root@devbox:/home/albert# deploy --today friday
-⚠️  acción bloqueada: día no permitido
+root@devbox:/home/albert# deploy --env prod --day friday
+acción bloqueada: no se deploya en viernes
 ```
 
 ---
