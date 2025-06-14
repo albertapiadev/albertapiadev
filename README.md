@@ -5,30 +5,23 @@
 </p>
 
 <h1 align="center">
-  <samp>albert@devbox:~ (main) $ whoami</samp>
+  <samp>albert@devbox:~ (main) $</samp>
 </h1>
 
 <p align="center">
-  <samp>Java Backend Dev | APIs, procesos distribuidos, y cero tolerancia a código sucio</samp>
+  <samp>Java Backend Dev | APIs funcionales, procesos distribuidos y deploys con fe (y rollback listo)</samp>
 </p>
 
 ---
 
 ## 🧬 /bio
 
-```bash
-albert@devbox:~$ whoami
-albertapiadev
-
-albert@devbox:~$ echo $ROLE
-Java Backend Developer
-
-albert@devbox:~$ echo $WORKSTYLE
-terminal first, mouse optional
-
-albert@devbox:~$ echo $CODEPHILOSOPHY
-simple > mágico
-logs > reuniones
+```json
+{
+  "name": "albertapiadev",
+  "runs_on": "café sin azúcar",
+  "deploy_day": "no viernes, por favor"
+}
 ```
 
 ---
@@ -96,18 +89,25 @@ logs > reuniones
 
 ## 🌀 /debug-log
 
-```
-🖥️  albert@devbox:~ (main) $ run daily-dev --mode focused
+```bash
+albert@devbox:~$ sudo su
+[sudo] password for albert: ********
 
-✔  café cargado
-✔  código formateado
-✘  pruebas ignoradas por sanidad mental
-✔  stackoverflow consultado
-✔  log level: DEBUG activado
-✔  commit con mensaje confuso aplicado
+root@devbox:/home/albert# run daily-dev --mode focused
 
-🧠  tip: si no compila, reinicia... tú, no el IDE
-💡  regla sagrada: jamás deploy un viernes (de nuevo)
+✓ café cargado
+✓ entorno listo
+✓ código formateado
+✗ pruebas... ignoradas por salud mental
+✓ stackoverflow abierto (en pestaña oculta)
+✓ log level = DEBUG
+✓ commit: "ajustes menores finales v3"
+
+root@devbox:/home/albert# tip
+si no compila, probablemente fue culpa tuya
+
+root@devbox:/home/albert# deploy --today friday
+⚠️  acción bloqueada: día no permitido
 ```
 
 ---
